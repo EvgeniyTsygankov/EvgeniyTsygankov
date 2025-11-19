@@ -9,10 +9,10 @@
 - 🎯 Цель: Создавать эффективные backend-решения для реальных бизнес-задач
 - 📫 Как связаться: **evgeniyts07@gmail.com** , **https://t.me/@tsygankov_eg**
 
-### 🚀 Мои проекты
+# 🚀 Мои проекты
 
 ## 📚 Учебные проекты
 - [Foodrgam](https://github.com/EvgeniyTsygankov/foodgram) - Веб‑сервис для публикации рецептов и формирования списка покупок
-- [YaMDb](https://github.com/EvgeniyTsygankov/api-yamdb)   - Отзывы на произведения
+- [YaMDb](https://github.com/EvgeniyTsygankov/api-yamdb) - Отзывы на произведения
 - [YaCut](https://github.com/EvgeniyTsygankov/async-yacut) - Сервис укорачивания ссылок
-- [Snake](https://github.com/EvgeniyTsygankov/the_snake)   - Классическая игра "Змейка"
+- [Snake](https://github.com/EvgeniyTsygankov/the_snake) - Классическая игра "Змейка"
