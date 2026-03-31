@@ -14,20 +14,15 @@
 
 ### 🛠️ Мой стек
 
-**Языки и фреймворки:**  
-Python, Django, Django REST Framework, Flask, FastAPI (в процессе)
+**Языки и фреймворки:** Python, Django, Django REST Framework, Flask, FastAPI (в процессе)
 
-**Базы данных:**  
-PostgreSQL, SQLite
+**Базы данных:** PostgreSQL, SQLite
 
-**Инструменты и инфраструктура:**
-Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), pytest, Ruff, Black, pre-commit
+**Инструменты и инфраструктура:** Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), pytest, Ruff, Black, pre-commit
 
-**API и интеграции:**
-REST API, JWT, Yandex Disk API, Telegram Bot API
+**API и интеграции:** REST API, JWT, Yandex Disk API, Telegram Bot API
 
-**В процессе изучения:**  
-FastAPI, Celery, Redis
+**В процессе изучения:** FastAPI, Celery, Redis
 
 ---
 
