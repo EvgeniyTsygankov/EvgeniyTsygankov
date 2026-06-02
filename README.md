@@ -14,15 +14,13 @@
 
 ### 🛠️ Мой стек
 
-**Языки и фреймворки:** Python, Django, Django REST Framework, Flask, FastAPI (в процессе)
+**Языки и фреймворки:** Python, Django, Django REST Framework, Flask
 
-**Базы данных:** PostgreSQL, SQLite
+**Базы данных:** PostgreSQL, SQLite, MongoDB
 
 **Инструменты и инфраструктура:** Docker, Docker Compose, Nginx, GitHub Actions (CI/CD), pytest, Ruff, Black, pre-commit
 
 **API и интеграции:** REST API, JWT, Yandex Disk API, Telegram Bot API
-
-**В процессе изучения:** FastAPI, Celery, Redis
 
 ---
 
@@ -34,6 +32,7 @@
 | [**Foodgram**](https://github.com/EvgeniyTsygankov/foodgram) | Веб-сервис для публикации рецептов и формирования списка покупок. Подписки, избранное, выгрузка ингредиентов. | DRF, Djoser, PostgreSQL, Docker, CI/CD (Telegram уведомления) |
 | [**YaMDb**](https://github.com/EvgeniyTsygankov/api-yamdb) | API для сбора отзывов на произведения (командный проект). Категории, жанры, рейтинги. | DRF, JWT, SQLite |
 | [**YaCut**](https://github.com/EvgeniyTsygankov/async-yacut) | Асинхронный сервис укорачивания ссылок и загрузки файлов на Яндекс.Диск. | Flask, Asyncio, Flask-SQLAlchemy, Yandex Disk API |
+| [**Job Parser**](https://github.com/EvgeniyTsygankov/job_parser) | Автоматизированный сервис для поиска и фильтрации вакансий Python/Backend, отправки email-уведомлений и сохранения результатов в БД | Requests, BeautifulSoup, lxml, Pydantic Settings, MongoDB, APScheduler, Jinja2, Pytest |
 
 ---
 
